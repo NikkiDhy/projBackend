@@ -1,0 +1,16 @@
+{
+  "name": "projbackend",
+  "version": "1.0.0",
+  "description": "first backend project in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "js",
+    "javascript"
+  ],
+  "author": "Riya Dhyani",
+  "license": "ISC"
+}
